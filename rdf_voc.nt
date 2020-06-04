@@ -1,0 +1,16 @@
+ <http://host/p16papa3/vocabulary#Course>  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>
+  <http://host/p16papa3/vocabulary#Teacher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>
+ <http://host/p16papa3/vocabulary#Classroom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>
+ <http://host/p16papa3/vocabulary#Lecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2000/01/rdf-schema#Class>
+
+
+ <http://host/p16papa3/vocabulary#ΜΑΘΗΜΑ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+ <http://host/p16papa3/vocabulary#ΕΝΑΡΞΗ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+<http://host/p16papa3/vocabulary#ΛΗΞΗ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+ <http://host/p16papa3/vocabulary#ΗΜΕΡΑ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+<http://host/p16papa3/vocabulary#ΔΙΔΑΣΚΩΝ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+ <http://host/p16papa3/vocabulary#ΑΙΘΟΥΣΑ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> 
+
+
+ 
+ 
